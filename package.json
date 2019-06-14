@@ -2,7 +2,7 @@
   "name": "prisma-cms",
   "displayName": "@prisma-cms",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "fi1osof",
   "engines": {
     "vscode": "^1.35.0"
