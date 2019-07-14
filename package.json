@@ -2,7 +2,7 @@
   "name": "prisma-cms",
   "displayName": "@prisma-cms",
   "description": "",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "publisher": "fi1osof",
   "engines": {
     "vscode": "^1.35.0"
@@ -21,6 +21,14 @@
       {
         "language": "javascriptreact",
         "path": "./snippets/front-editor/js_snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/server/modules/js_snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/server/modules/js_snippets.json"
       }
     ]
   },
